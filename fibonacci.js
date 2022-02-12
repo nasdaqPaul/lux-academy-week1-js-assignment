@@ -29,6 +29,5 @@ function isFib(num) {
     }
 }
 
-console.log(isFib(7))
-
-isFib(22)
+const number = 200
+console.log(isFib(number));
